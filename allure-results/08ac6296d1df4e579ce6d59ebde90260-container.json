@@ -1,0 +1,61 @@
+{
+  "uuid": "a20ecfa3-a60e-4f88-8ae1-3757d665195d-tc-0-1000",
+  "name": "Tests.UI.Tests.WebDriverTests.SeconfUITest",
+  "children": [
+    "68248e98-fd36-4b41-8efe-b0a3c8c2ea30-tr-0-1001"
+  ],
+  "befores": [
+    {
+      "name": "SetUpBeforTestRun",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1625648908038,
+      "stop": 1625648908038
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1625648908039,
+      "stop": 1625648908039
+    },
+    {
+      "name": "TearDownBeforTestRun",
+      "status": "none",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "It's not possible to get status of OneTimeTearDown",
+        "trace": "See Allure.NUnit wiki"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1625648908039,
+      "stop": 1625648908039
+    }
+  ],
+  "links": [],
+  "start": 1625648902901,
+  "stop": 1625648908135
+}
